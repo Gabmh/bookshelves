@@ -50,6 +50,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -145,6 +146,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bookshelves"
+    }
+  },
+  "defaultProject": "bookshelves",
+  "cli": {
+    "analytics": "a9b1fa7a-c6ca-4542-b0e5-daeca9548bf4"
+  }
 }
